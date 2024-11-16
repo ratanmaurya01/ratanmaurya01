@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @ratanmaurya
-- 👀 I’m interested in full statck development 
-- 🌱 I’m currently learning Node js, MongoDB, AWS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mauryaratan42@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+👋 Hi there, I’m **Ratan Maurya**!  
+💻 **Full-Stack Enthusiast | React Wizard | Backend Explorer**  
+
+🌟 **Interests:**  
+- Building sleek, modern web applications.  
+- Exploring **Node.js**, **MongoDB**, and diving into **AWS**.
+- 
+🤝 **Looking to collaborate on:**  
+- Open-source projects & innovative ideas in web development.  
+
+📬 **Reach me at:**  
+**mauryaratan42@gmail.com**  
+
+😄 **Pronouns:** He/Him  
+⚡ **Fun fact:** I'm a lifelong learner always excited to explore cutting-edge tech!  
+
+🚀 Let’s create something amazing together!  
+
 
 <!---
 ratanmaurya01/ratanmaurya01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
