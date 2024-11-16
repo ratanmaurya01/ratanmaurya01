@@ -4,8 +4,7 @@
 
 🌟 **Interests:**  
 - Building sleek, modern web applications.  
-- Exploring **Node.js**, **MongoDB**, and diving into **AWS**.
-- 
+- Exploring **Node.js**, **MongoDB**, and diving into **AWS**
 🤝 **Looking to collaborate on:**  
 - Open-source projects & innovative ideas in web development.  
 
