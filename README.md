@@ -1,6 +1,6 @@
 
 👋 Hi there, I’m **Ratan Maurya**!  
-💻 **Full-Stack Enthusiast | React Wizard | Backend Explorer**  
+💻 **Full-Stack | React Wizard | Backend Explorer**  
 
 🌟 **Interests:**  
 - Building sleek, modern web applications.  
