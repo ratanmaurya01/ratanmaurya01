@@ -1,24 +1,67 @@
+# Hi, I'm Ratan Kumar Maurya 👋
 
-👋 Hi there, I’m **Ratan Maurya**!  
-💻 **Full-Stack | React Wizard | Backend Explorer**  
+## Full Stack Developer | React.js | Next.js | Node.js
 
-🌟 **Interests:**  
-- Building sleek, modern web applications.  
-- Exploring **Node.js**, **MongoDB**, and diving into **AWS**
-  
-🤝 **Looking to collaborate on:**  
-- Open-source projects & innovative ideas in web development.  
+Full Stack Developer with 2.6+ years of experience building production-grade web applications using React.js, Next.js, Node.js, Firebase and MySQL.
 
-📬 **Reach me at:**  
-**mauryaratan42@gmail.com**  
+### 🚀 What I Work On
 
-😄 **Pronouns:** He/Him  
-⚡ **Fun fact:** I'm a lifelong learner always excited to explore cutting-edge tech!  
+* B2B/B2C Business Platforms
+* Smart Prepaid Meter Management Systems
+* BLE & IoT-Based Meter Solutions
+* REST API Development
+* Role-Based Access Control (RBAC)
+* Dashboard & Reporting Systems
+* N8N Workflow Automation
 
-🚀 Let’s create something amazing together!  
+### 🛠 Tech Stack
 
+**Frontend**
 
-<!---
-ratanmaurya01/ratanmaurya01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* React.js
+* Next.js
+* JavaScript
+* Redux Toolkit
+* Tailwind CSS
+* Material UI
+
+**Backend**
+
+* Node.js
+* Express.js
+* Firebase
+* REST APIs
+
+**Database**
+
+* MySQL
+* Firestore
+
+**Tools**
+
+* Git
+* GitHub
+* N8N
+* Postman
+
+### 📌 Featured Projects
+
+#### Smart Prepaid Meter Management System
+
+Multi-tenant meter management platform with recharge workflows, token generation, monitoring dashboards and reporting modules.
+
+#### BLE & TI Meter Solutions
+
+Bluetooth-based meter communication, real-time synchronization and automated reporting.
+
+#### B2B/B2C Commerce Platform
+
+Role-based platform supporting Admin, Sales Team, Dealers and Customers with inventory, orders and transaction ledger management.
+
+### 📫 Contact
+
+* Email: [mauryaratan42@gmail.com](mailto:mauryaratan42@gmail.com)
+* LinkedIn: linkedin.com/in/ratan-kumar-maurya-515751159
+* GitHub: github.com/ratanmaurya01
+
+Always open to collaborating on interesting projects and learning new technologies.
